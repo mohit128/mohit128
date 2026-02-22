@@ -18,12 +18,13 @@ Linux Admin | DevOps Learner | Java Backend Enthusiast<br>Building real-world pr
 ---
 [![](https://visitcount.itsvg.in/api?id=mohit128&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
-<!--
-**mohit128/mohit128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+
+
+
 
 -🔭 Currently Working On
 
@@ -46,3 +47,11 @@ Cloud fundamentals
 Transition into DevOps/SRE role
 
 Build production-ready microservice project
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 
+
+<!--
+**mohit128/mohit128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
