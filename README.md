@@ -25,12 +25,24 @@ Linux Admin | DevOps Learner | Java Backend Enthusiast<br>Building real-world pr
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🔭 Currently Working On
+
+Building Java Servlet-based web apps
+
+Practicing Kubernetes deployments
+
+Automating Linux tasks using Bash
+
+🌱 Currently Learning
+
+Advanced Kubernetes
+
+CI/CD pipeline design
+
+Cloud fundamentals
+
+💡 Goals for 2026
+
+Transition into DevOps/SRE role
+
+Build production-ready microservice project
