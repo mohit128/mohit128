@@ -22,7 +22,7 @@ Linux System Administrator passionate about DevOps and automation.<br>Currently 
 
 -🔭 Currently Working On
 
-Building Java Servlet-based web apps
+Building Python and API 
 
 Practicing Kubernetes deployments
 
